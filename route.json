@@ -1,0 +1,104 @@
+{
+  "loop": false,
+
+  "stations": [
+    {
+      "name": "蘇我駅",
+      "travel_time": 0,
+      "door_side": "right",
+      "board_per_door": 5,
+      "alight_per_door": 0,
+      "door_open": 8
+    },
+    {
+      "name": "千葉みなと駅",
+      "travel_time": 40,
+      "door_side": "left",
+      "board_per_door": 3,
+      "alight_per_door": 2,
+      "door_open": 10
+    },
+    {
+      "name": "稲毛海岸駅",
+      "travel_time": 20,
+      "door_side": "right",
+      "board_per_door": 4,
+      "alight_per_door": 2,
+      "door_open": 12
+    },
+    {
+      "name": "検見川浜駅",
+      "travel_time": 30,
+      "door_side": "left",
+      "board_per_door": 3,
+      "alight_per_door": 2,
+      "door_open": 8
+    },
+    {
+      "name": "海浜幕張駅",
+      "travel_time": 20,
+      "door_side": "left",
+      "board_per_door": 10,
+      "alight_per_door": 18,
+      "door_open": 8
+    },
+   
+    {
+      "name": "南船橋駅",
+      "travel_time": 80,
+      "door_side": "left",
+      "board_per_door": 4,
+      "alight_per_door": 2,
+      "door_open": 8
+    },
+    
+    {
+      "name": "新浦安駅",
+      "travel_time": 110,
+      "door_side": "left",
+      "board_per_door": 8,
+      "alight_per_door": 7,
+      "door_open": 8
+    },
+    {
+      "name": "舞浜駅",
+      "travel_time": 30,
+      "door_side": "left",
+      "board_per_door": 12,
+      "alight_per_door": 9,
+      "door_open": 8
+    },
+    {
+      "name": "新木場駅",
+      "travel_time": 60,
+      "door_side": "left",
+      "board_per_door": 4,
+      "alight_per_door": 5,
+      "door_open": 8
+    },
+    {
+      "name": "越中島駅",
+      "travel_time": 60,
+      "door_side": "left",
+      "board_per_door": 1,
+      "alight_per_door": 1,
+      "door_open": 8
+    },
+    {
+      "name": "八丁堀駅",
+      "travel_time": 20,
+      "door_side": "left",
+      "board_per_door": 2,
+      "alight_per_door": 7,
+      "door_open": 8
+    },
+    {
+      "name": "東京（京葉ホーム）駅",
+      "travel_time": 20,
+      "door_side": "left",
+      "board_per_door": 0,
+      "alight_per_door": 2,
+      "door_open": 8
+    }
+  ]
+}
